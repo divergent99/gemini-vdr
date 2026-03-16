@@ -28,7 +28,7 @@ VDR Voice Intelligence is a voice-first M&A due diligence agent. Upload deal doc
 
 ## Demo
 
-> 🎥 ![VDR Voice Intelligence Demo](assets/demo.jpg)
+> 🎥 ![VDR Voice Intelligence Demo](assets/Demo.jpg)
 
 ---
 
