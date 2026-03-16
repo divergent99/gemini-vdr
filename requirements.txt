@@ -1,0 +1,24 @@
+# ── Backend ───────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+
+# ── Gemini ────────────────────────────────────────────────
+google-genai
+
+# ── Audio ─────────────────────────────────────────────────
+pyaudio
+numpy
+
+# ── Document parsing ──────────────────────────────────────
+PyMuPDF
+python-docx
+openpyxl
+
+# ── Cache ─────────────────────────────────────────────────
+chromadb
+
+# ── Frontend ──────────────────────────────────────────────
+dash
+dash-bootstrap-components
